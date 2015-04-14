@@ -1,0 +1,16 @@
+{
+    "contents" : "# Carrega o script no ambiente R\nsource(\"FrmGenFractal.r\")\n\n# Funcao inicial para executar a chamada da funcao de outro script.\nmain <- function() {\n    \n    load()\n    \n}\n",
+    "created" : 1428985562301.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1381092798",
+    "id" : "3D95E082",
+    "lastKnownWriteTime" : 1427757730,
+    "path" : "D:/RStudio/workdir/FractaR/Program.r",
+    "project_path" : "Program.r",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
